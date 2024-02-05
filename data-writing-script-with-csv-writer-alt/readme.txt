@@ -1,6 +1,6 @@
 How to write data to a file with a regular csv-writer: an alternative method
 
-1. First of all, you need to import the CSV library. I think it's a built-in library.
+1. First of all, you need to import the CSV library. It is a built-in Python library.
 
 2. Make sure that you have your data stored in lists.
 
